@@ -9,7 +9,7 @@ This repository contains the completed Health Insurance Claims Processing assign
   - **API Documentation**: [https://plum-95ex.onrender.com/docs](https://plum-95ex.onrender.com/docs)
 
 ## 🎥 Demo Video
-- **Link**: [Google Drive Demo Video (Placeholder)](https://drive.google.com/drive/folders/your-dummy-link-here) *(Please replace this placeholder with your actual Google Drive video link)*
+- **Link**: [Google Drive Demo Video (Placeholder)](https://drive.google.com/file/d/19areRfLbEp4T0057gpFPDUZJHjfIUL1U/view?usp=sharing) *(Please replace this placeholder with your actual Google Drive video link)*
 
 ## 🚀 Implemented Solution
 The complete automated multi-agent claims processing pipeline is located in the [claims_processor](./claims_processor) folder.
