@@ -2,6 +2,12 @@
 
 This repository contains the completed Health Insurance Claims Processing assignment for the AI Engineer role at Plum.
 
+## 🚀 Deployed Live Links
+- **Frontend App (UI)**: [https://plum-phi-navy.vercel.app](https://plum-phi-navy.vercel.app) *(Hosted on Vercel)*
+- **Backend API (Uvicorn)**: [https://plum-95ex.onrender.com](https://plum-95ex.onrender.com) *(Hosted on Render)*
+  - **Health Check**: [https://plum-95ex.onrender.com/health](https://plum-95ex.onrender.com/health)
+  - **API Documentation**: [https://plum-95ex.onrender.com/docs](https://plum-95ex.onrender.com/docs)
+
 ## 🎥 Demo Video
 - **Link**: [Google Drive Demo Video (Placeholder)](https://drive.google.com/drive/folders/your-dummy-link-here) *(Please replace this placeholder with your actual Google Drive video link)*
 
@@ -22,7 +28,7 @@ Please refer to the [Claims Processor README](./claims_processor/README.md) for 
 ```
 Plum/
 │
-├── README.md                  # This file
+├── README.md                  # This file (updated with deployed URLs)
 ├── assignment.md              # Original assignment guidelines
 ├── policy_terms.json          # Policy configuration, coverage rules, member roster
 ├── test_cases.json            # 12 test scenarios with expected outcomes

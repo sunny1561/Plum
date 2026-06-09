@@ -4,6 +4,16 @@ Multi-agent AI pipeline that automates health insurance claim reviews. Accepts a
 
 ---
 
+## 🚀 Live Deployments
+
+- **Frontend App (UI)**: [https://plum-phi-navy.vercel.app](https://plum-phi-navy.vercel.app) *(Hosted on Vercel)*
+- **Backend API (Uvicorn)**: [https://plum-95ex.onrender.com](https://plum-95ex.onrender.com) *(Hosted on Render)*
+  - **Health Check**: [https://plum-95ex.onrender.com/health](https://plum-95ex.onrender.com/health)
+  - **API Documentation**: [https://plum-95ex.onrender.com/docs](https://plum-95ex.onrender.com/docs)
+
+---
+
+
 ## AI Provider
 
 **Anthropic Claude only** (`claude-haiku-4-5-20251001`).
